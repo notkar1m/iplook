@@ -19,4 +19,4 @@ Usage:
 python3 iplook <ip> [city/region/country/latitude/longitude/help]
 ```
 
-[Tutorial Video (Soon)](https://youtube.com)
+[Tutorial Video ](https://youtu.be/RMvH3FFjHcw)
