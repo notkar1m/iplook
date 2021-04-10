@@ -7,7 +7,12 @@ git clone https://github.com/notkar1m/iplook.git
 ```
 Install Requirements (Python is required):
 ```sh
+cd iplook
 pip install -r requirements.txt
+```
+Go Back To Previous Dir:
+```sh
+cd ..
 ```
 Usage:
 ```sh
